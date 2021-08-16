@@ -17,7 +17,7 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-hari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hari-krishna-55b719183/)]
+![Linkedin Badge](https://img.shields.io/badge/-hari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hari-krishna-55b719183/)
 
 
 
